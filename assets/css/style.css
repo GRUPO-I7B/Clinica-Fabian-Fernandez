@@ -3922,7 +3922,7 @@ select {
 }
 
 .features-text .name span {
-  color: #009024;
+  color: #00906D;
   margin-left: 15px;
 }
 
@@ -5125,7 +5125,7 @@ select {
 }
 
 .team-content .name:hover {
-  color: #009024;
+  color: #00906D;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5446,7 +5446,7 @@ select {
 }
 
 .service-content .service-icon-wrapper .title:hover {
-  color: #009024;
+  color: #00906D;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
